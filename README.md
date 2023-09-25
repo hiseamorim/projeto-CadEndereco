@@ -14,6 +14,7 @@ Estamos montando uma página de cadastro de endereço, com uso de expressões re
 - `Cidade`: Campo para o usuário cadastrar sua cidade.
 - `Estado`: Campo para o usúario cadastrar seu estado.
 - `Cadastrar`: Botão para salvar os dados inseridos nos campos.
+- `Preenchimento automático`: Qundo inserido o CEP os campos - `Endereço` e - `Bairro`
 
 ### 🛠️ Tecnologia ultilizadas
 - ``HTML 5``
