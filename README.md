@@ -1,5 +1,5 @@
 # Cadastro de Endereço
-![imagem](img/capacadenreco.png)
+![imagem](img/capacadendereco.png)
 
 ## 📋Descrição
 Estamos montando uma página de cadastro de endereço, com uso de expressões regulares e bootstrap para a simplificação do código e  melhoria da escrita do README para a disciplina de Programação Web I. 
@@ -14,7 +14,7 @@ Estamos montando uma página de cadastro de endereço, com uso de expressões re
 - `Cidade`: Campo para o usuário cadastrar sua cidade.
 - `Estado`: Campo para o usúario cadastrar seu estado.
 - `Cadastrar`: Botão para salvar os dados inseridos nos campos.
-- `Preenchimento automático`: Qundo inserido o CEP os campos `Endereço` e `Bairro`
+- `Preenchimento automático`: Qundo inserido o CEP os campos `Endereço` e `Bairro` são preenchidos automáticamente.
 
 ### 🛠️ Tecnologia ultilizadas
 - ``HTML 5``
