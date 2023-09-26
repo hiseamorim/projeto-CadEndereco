@@ -2,7 +2,7 @@
 ![imagem](img/capacadendereco.png)
 
 ## 📋Descrição
-Estamos montando uma página de cadastro de endereço, com uso de expressões regulares e bootstrap para a simplificação do código e  melhoria da escrita do README para a disciplina de Programação Web I. 
+A página de cadastro de endereço é um projeto desenvolvido em linguagem HTML, CSS e JavaScript, utilizando as bibliotecas Bootstrap e expressões regulares para a simplificação do código. A página conta com um formulário responsivo, com campos de texto, de números e opções seletivas. Também estamos praticando a melhoria de escrita para fazer um bom README para a disciplina de programação Web I do professor Leonardo Rocha.
 
 ## 🚀 Começando
 
