@@ -2,8 +2,8 @@
 ![imagem](img/capacadendereco.png)
 
 ## 📋Descrição
-A página de cadastro de endereço é um projeto desenvolvido em linguagem HTML, CSS e JavaScript, utilizando as bibliotecas Bootstrap e expressões regulares para a simplificação do código. A página conta com um formulário responsivo, com campos de texto, de números e opções seletivas. Também estamos praticando a melhoria de escrita para fazer um bom README para a disciplina de programação Web I do professor Leonardo Rocha.
-O trabalho foi feito em conjunto entre o professor e os alunos 
+A página de cadastro de endereço é um projeto desenvolvido em linguagem HTML e JavaScript, utilizando as bibliotecas Bootstrap e expressões regulares para a simplificação do código. A página conta com um formulário responsivo, com campos de texto, de números e opções seletivas. Também estamos praticando a melhoria de escrita para fazer um bom README para a disciplina de programação Web I do professor Leonardo Rocha.
+O trabalho foi feito em conjunto entre o professor e os alunos para desenvolver um html responsivo, sendo assim uma tela que se adapta ao dispositivo utilizado, também em conjunto fizemos a parte de javascript para a limpeza do formulário, a virificação de CEP, preenchimento de campos, a função para o consumo de API ultilizando a função do tipo assincrona e um adicionamento de um evento DOM, no input CEP.
 
 ## 🚀 Começando
 
@@ -17,17 +17,18 @@ O trabalho foi feito em conjunto entre o professor e os alunos
 - `Cadastrar`: Botão para salvar os dados inseridos nos campos.
 - `Preenchimento automático`: Quando inserido o CEP os campos `Endereço` e `Bairro` são preenchidos automáticamente.
 - `Verifica se o CEP é válido`: Quando inserido o CEP, ele verifica se é válido.
+![imagem](gif/gifcadendereco.gif)
 
 ### 🛠️ Tecnologia ultilizadas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width=50  />  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50 /> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=50/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50 /> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=50/> |
 | :---: | :---: | :---: | :---: | :---: |
 
 ## 📄 Fontes consultadas
-[Como criar um README para o seu perfil do GitHub](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) 
-[Um modelo para fazer um bom README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
-[Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
-[Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
-[Como escrever um bom arquivo README para seu projeto do GitHub](https://www.freecodecamp.org/portuguese/news/como-escrever-um-bom-arquivo-readme-para-seu-projeto-do-github/)
+- [Como criar um README para o seu perfil do GitHub](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) 
+- [Um modelo para fazer um bom README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+- [Como fazer um bom README](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
+- [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
+- [Como escrever um bom arquivo README para seu projeto do GitHub](https://www.freecodecamp.org/portuguese/news/como-escrever-um-bom-arquivo-readme-para-seu-projeto-do-github/)
 
 
 ## ✒️ Autores
