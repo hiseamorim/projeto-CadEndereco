@@ -32,6 +32,6 @@ O trabalho foi feito em conjunto entre o professor e os alunos para desenvolver 
 
 
 ## ✒️ Autores
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/105460028?v=4" width=115><br><sub>Hanelise Naves Amorim</sub>](https://github.com/hiseamorim) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha</sub>](https://github.com/LeonardoRochaMarista) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86796647?s=200&v=4" width=115><br><sub>Marista Escola Social Ir. Acácio</sub>](https://github.com/MaristaIrAcacio) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127847673?v=4" width=115><br><sub>Maria Eduarda Simões</sub>](https://github.com/Mariaeduardasimoes) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/105460028?v=4" width=115><br><sub>Hanelise Naves Amorim</sub>](https://github.com/hiseamorim) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127847673?v=4" width=115><br><sub>Maria Eduarda Simões</sub>](https://github.com/Mariaeduardasimoes) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha</sub>](https://github.com/LeonardoRochaMarista) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86796647?s=200&v=4" width=115><br><sub>Marista Escola Social Ir. Acácio</sub>](https://github.com/MaristaIrAcacio) | 
 | :---: | :---: | :---: | :---: |
 
